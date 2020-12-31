@@ -677,8 +677,9 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
+
 
 .tight-width-whitespace {
     max-width: 600px;
@@ -707,6 +708,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    font-weight: bold;
 }
 
 h3 {
@@ -726,7 +728,7 @@ h1 {
     color: #333333!important;
 }
 
-h4 {
+blockquote {
     color: #333333!important;
 }
 
@@ -775,7 +777,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
@@ -904,6 +906,7 @@ h4 {
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
+        font-weight: bold;
     }
     .b-parallax {
         background-attachment: scroll;
