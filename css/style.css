@@ -739,7 +739,7 @@ blockquote {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .portfolio-thumb {
@@ -783,7 +783,7 @@ blockquote {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
